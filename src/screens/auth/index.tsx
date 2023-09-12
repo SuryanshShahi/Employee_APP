@@ -1,7 +1,6 @@
 import React from 'react';
 import LoginTemplate from './loginTemplate/LoginTemplate';
 import {Text, TouchableOpacity, View} from 'react-native';
-import tw from '../../utils/tailwind';
 import {localizeKey} from '../../global';
 import {Image} from 'react-native';
 import Config from '../../global/Config';
